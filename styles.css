@@ -1,0 +1,24 @@
+.carousel--houses img {
+	max-height: calc(100vh - 56px);
+}
+
+.main--find-a-home {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.main--find-a-home h1 {
+	padding: 4.2rem;
+}
+
+.card img {
+	max-height: 236px;
+}
+
+.main--home-image {
+	padding-top: 4.2rem;
+}
+
+.main--home-image img {
+	width: 100vw;
+}
